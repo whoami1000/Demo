@@ -1,4 +1,4 @@
 # Demo
 learning github repo
-author- deshnu ray
+author- astroterium
 line for 3rd commit
